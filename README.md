@@ -1,2 +1,2 @@
 # mini-generative-models
-VAE, VQVAE, various Diffusion implementations, etc. on CIFAR. Mainly for learning.
+Bare bones VAE, VQVAE, various Diffusion implementations, etc. on CIFAR. Mainly for learning.
